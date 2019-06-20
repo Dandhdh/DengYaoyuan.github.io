@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>https://dengyaoyuan.github.io/post-sitemap.xml</loc>
         <lastmod>2019-06-19T20:34:32.603Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>https://dengyaoyuan.github.io/page-sitemap.xml</loc>
         <lastmod>2019-06-19T20:34:32.644Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
+        <loc>https://dengyaoyuan.github.io/tag-sitemap.xml</loc>
         <lastmod>2019-06-19T20:34:32.603Z</lastmod>
     </sitemap>
 
